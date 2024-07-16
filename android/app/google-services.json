@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65374796996",
+    "project_id": "chat-app-cdbad",
+    "storage_bucket": "chat-app-cdbad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65374796996:android:c212922a1ec32dff899d91",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiFB8s0ZYJPyO-9E1Muu4kCGUmHzhqOAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
